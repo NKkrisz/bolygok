@@ -1,0 +1,8 @@
+Merkúr: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010301Merkur/messenger_2008okt6.jpg
+Vénusz: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010302Venusz/venusz20020926.jpg
+Föld: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/01030301Fold/fold1.gif
+Mars: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010304Mars/mars.jpg
+Jupiter: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010305Jupiter/jupiter20040714.jpg
+Szaturnusz: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010306Szaturnusz/saturn_voy2.jpg
+Uránusz: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010307Uranusz/uranus_voy2b.jpg
+Neptunusz: http://astro.u-szeged.hu/oktatas/csillagaszat/6_Naprendszer/010308Neptunusz/neptun_voy2a.jpg
